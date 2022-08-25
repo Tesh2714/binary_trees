@@ -23,7 +23,7 @@ binary_tree_t *binary_tree_node_2(binary_tree_t *parent, int value)
 
 /**
  * binary_tree_insert_right - inserts a node as the right-child
- * @parent: pointer to the node to insert the right-child 
+ * @parent: pointer to the node to insert the right-child
  * @value: value in the new node
  *
  * Description: If parent already has a right-child, the new node must take its
