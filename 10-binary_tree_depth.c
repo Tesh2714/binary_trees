@@ -1,4 +1,4 @@
-include "binary_trees.h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_depth - depth of a node in a binary tree
